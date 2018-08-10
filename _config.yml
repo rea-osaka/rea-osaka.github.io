@@ -48,8 +48,8 @@ analytics:
 # Site Author
 author:
   name             : "不動産取引価格情報活用小委員会"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  avatar           : "/assets/images/ourLogo.jpg"
+  bio              : "大阪府不動産鑑定士協会に属する小委員会"
   location         : "Osaka Japan"
   email            :
   uri              :
