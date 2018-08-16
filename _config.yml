@@ -52,7 +52,7 @@ author:
   bio              : "大阪府不動産鑑定士協会に属する小委員会"
   location         : "Osaka Japan"
   email            :
-  uri              :
+  uri              : "https://rea-osaka.github.io"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -60,7 +60,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/rea-osaka"
   gitlab           :
   google_plus      :
   keybase          :
@@ -83,6 +83,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _works
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
