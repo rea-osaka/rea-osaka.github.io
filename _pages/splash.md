@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Let's get ready to go THERE"
-excerpt: "不動産の鑑定評価業務に資するデジタルデータやプログラミングを模索する"
+title: "Let's get started!!"
+excerpt: "不動産の鑑定評価業務に資するデータやプログラミングを模索する"
 #author_profile: true
 header:
   overlay_image: /assets/images/topsplash.jpg
   caption: "Photo credit: [syunsuke](https://syunsuke.github.io)"
-  overlay_filter: 0.6
+  overlay_filter: 0.55
   cta_label: "Our GitHub"
   cta_url: "https://github.com/rea-osaka"
 permalink: /
@@ -32,7 +32,7 @@ feature_row:
     url: "/blog/"
 ---
 
-データリテラシーを高め、鑑定評価業務に生かしていきましょう。
+データリテラシーを高め、鑑定評価業務に生かして行こう
 {: .text-center}
 
 ## FEATURE
