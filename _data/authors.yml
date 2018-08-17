@@ -1,0 +1,18 @@
+
+syunsuke:
+  name: "福田俊介"
+  avatar: "/assets/images/syunsuke_logo.jpg"
+  bio: "Love & peace"
+  location: "Osaka Japan"
+  uri: "https://syunsuke.github.io"
+  github: "syunsuke"
+  instagram: "s.nekota"
+
+allgroup:
+  name             : "不動産取引価格情報活用小委員会"
+  avatar           : "/assets/images/ourLogo.jpg"
+  bio              : "大阪府不動産鑑定士協会に属する小委員会"
+  location         : "Osaka Japan"
+  uri              : "https://rea-osaka.github.io"
+  github           : "https://github.com/rea-osaka"
+
