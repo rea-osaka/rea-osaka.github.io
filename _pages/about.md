@@ -3,21 +3,20 @@ layout: single
 permalink: /about/
 author: allgroup
 author_profile: true
-title: 不動産取引価格情報活用小委員会について
+title: 不動産取引価格情報活用準備委員会（仮）について
 ---
-## 不動産取引価格情報活用小委員会とは
+## 不動産取引価格情報活用準備委員会（仮）とは
 私たちは、大阪の不動産鑑定士等で構成される[公益社団法人大阪府不動産鑑定士協会](https://rea-osaka.or.jp/index.html)
-に属する業務委員会の一つです。
+に所属する不動産鑑定士個人が、当該協会内委員会のホームページを立ち上げるための準備委員会を独自に組織して運営しているホームページです。
 
-## 委員会活動趣旨
-Consectetur debitis voluptate quia expedita doloremque. Magnam optio quisquam saepe neque quibusdam eligendi aperiam! Molestias exercitationem animi cupiditate ratione minima iusto, beatae Consequatur aperiam nesciunt delectus consequuntur quo repellat dolorem. Ut corrupti alias rerum magnam sed Pariatur quo in voluptas voluptate libero Iste quidem qui quia expedita dolores. Voluptate corrupti quaerat sequi eum molestiae? Perspiciatis repudiandae officiis non eum consequatur minus neque. Eos porro quod dignissimos nam cupiditate! Ipsa beatae suscipit culpa sit eligendi. Expedita officiis ducimus fuga libero placeat Voluptatum doloremque optio deserunt dolore distinctio vero. Aliquam tenetur sunt amet repellat cupiditate. Non aperiam magnam fugit consectetur et Praesentium?
+このため、準備段階である現在、有志個人の責任で運営しており、当ホームページや当該アカウント「rea-osaka」の内容や見解は、有志個人のものであるため、[公益社団法人大阪府不動産鑑定士協会](https://rea-osaka.or.jp/index.html)とは一切関係がありません。
 
-## メンバー
-- 長尾成信(委員長)
-- 後藤幸基
-- 松田嘉代子
-- 太田善久
+
+
+## 準備委員会活動趣旨
+
+不動産鑑定士への鑑定評価業務に資するデータやデータサイエンスツールの模索
+
+## 有志メンバー
 - 大江文夫
 - 福田俊介
-
-

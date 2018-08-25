@@ -13,19 +13,19 @@ permalink: /
 #classes: wide
 feature_row:
   - title: "Works"
-    excerpt: "私達小委員会が行なっている活動の成果をココで見ることが出来ます。"
+    excerpt: "私たちの活動をここで見ることができます"
     image_path: /assets/images/feature001.jpg
     btn_label: "read more"
     btn_class: "btn--primary"
     url: /works/
   - title: "Coding"
-    excerpt: "プログラムの管理やコミュニケーションにGitHubを活用しています。"
+    excerpt: "活動にはGitHubを活用しています"
     image_path: /assets/images/feature002.jpg
     btn_label: "visit our github"
     btn_class: "btn--primary"
     url: "https:/github.com/rea-osaka"
   - title: "Folks"
-    excerpt: "小委員会のメンバーによる各活動への補足をブログ形式で投稿しています。"
+    excerpt: "各メンバーがブログを投稿しています"
     image_path: /assets/images/feature003.jpg
     btn_label: "read more"
     btn_class: "btn--primary"
@@ -40,4 +40,5 @@ feature_row:
 
 ## NEWS
 
-
+### 2018.8.25
+準備委員会としてのホームページを公開
