@@ -23,7 +23,7 @@ feature_row:
     image_path: /assets/images/feature002.jpg
     btn_label: "visit our github"
     btn_class: "btn--primary"
-    url: "https:/github.com/rea-osaka"
+    url: "https://github.com/rea-osaka"
   - title: "Folks"
     excerpt: "各メンバーがブログを投稿しています"
     image_path: /assets/images/feature003.jpg
