@@ -40,5 +40,13 @@ feature_row:
 
 ## NEWS
 
+### 2018.9.11
+リポジトリ[rea-osaka/Maps_on_2_census](https://github.com/rea-osaka/Maps_on_2_census)を追加。国勢調査による人口・世帯数の増減を視覚化するＲモジュールです。
+
+### 2018.9.11
+環境整備のためのHowToページを作成し、GitHubアカウントの作成について説明
+
 ### 2018.8.25
 準備委員会としてのホームページを公開
+
+
