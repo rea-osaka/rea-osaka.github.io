@@ -40,10 +40,16 @@ feature_row:
 
 ## NEWS
 
-### 2018.9.11
-リポジトリ[rea-osaka/Maps_on_2_census](https://github.com/rea-osaka/Maps_on_2_census)を追加。国勢調査による人口・世帯数の増減を視覚化するＲモジュールです。
+### 2018.9.10
+リポジトリ[rea-osaka/jutakuchakko.R](https://github.com/rea-osaka/jutakuchakko.R)を追加。住宅着工統計を視覚化するスクリプト
 
-### 2018.9.11
+### 2018.9.10
+リポジトリ[rea-osaka/simple-analysis-of-real-estate](https://github.com/rea-osaka/simple-analysis-of-real-estate)を追加。取引価格情報を利用し、取引総額を視覚的に分析するスクリプト
+
+### 2018.9.10
+リポジトリ[rea-osaka/Maps_on_2_census](https://github.com/rea-osaka/Maps_on_2_census)を追加。国勢調査による人口・世帯数の増減を視覚化するスクリプト
+
+### 2018.9.10
 環境整備のためのHowToページを作成し、GitHubアカウントの作成について説明
 
 ### 2018.8.25
