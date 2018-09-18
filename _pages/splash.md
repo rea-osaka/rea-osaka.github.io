@@ -40,6 +40,12 @@ feature_row:
 
 ## NEWS
 
+### 2018.9.18
+[環境整備のためのHowTo](/works/howto/)のページに「R環境の整備」項目を追加しました。
+
+### 2018.9.18
+当Webページの情報発信主体が大阪府不動産鑑定士協会業務委員会内の取引価格情報活用小委員会になりました。
+
 ### 2018.9.10
 リポジトリ[rea-osaka/jutakuchakko.R](https://github.com/rea-osaka/jutakuchakko.R)を追加。住宅着工統計を視覚化するスクリプト
 
