@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ja"
-title                    : "不動産取引価格情報活用準備委員会（仮）"
+title                    : "不動産取引価格情報活用小委員会"
 title_separator          : "-"
-name                     : "不動産取引価格情報活用準備委員会（仮）"
+name                     : "不動産取引価格情報活用小委員会"
 description              : "不動産鑑定士によるデータ分析研究会"
 url                      : "https://rea-osaka.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -47,9 +47,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "不動産取引価格情報活用準備委員会（仮）"
+  name             : "不動産取引価格情報活用小委員会"
   avatar           : "/assets/images/ourLogo.jpg"
-  bio              : "大阪府不動産鑑定士協会に属する不動産鑑定士の個人有志集団"
+  bio              : "大阪府不動産鑑定士協会に属する小委員会"
   location         : "Osaka Japan"
   email            :
   uri              : "https://rea-osaka.github.io"
