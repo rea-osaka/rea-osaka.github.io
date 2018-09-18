@@ -61,7 +61,7 @@ rea-osakaのリポジトリにあるスクリプトが利用していたりす�
 ブラウザ上で動く高級インタラクティブ環境である[jupyter](http://jupyter.org/)の環境構築方法を紹介します。
 
  - [RStudioのインストール](/works/howto/r/rstudio_install/)
- - [Jupyter Notebook環境の整備](/works/howto/r/jupyter/)
+ - [RをJupyter Notebookで使うための環境の整備](/works/howto/r/jupyter_setting/)
 
 
 ## Anaconda環境の整備
