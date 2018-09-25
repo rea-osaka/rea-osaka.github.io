@@ -40,6 +40,10 @@ feature_row:
 
 ## NEWS
 
+### 2018.9.25
+リポジトリ[rea-osaka/R_lesson](https://github.com/rea-osaka/R_lesson)を追加。
+jupyter notebookを用いた、Rの基本的なレッスンノート集
+
 ### 2018.9.18
 [環境整備のためのHowTo](/works/howto/)のページに「R環境の整備」項目を追加しました。
 
