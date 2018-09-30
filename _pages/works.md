@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /works/
-title: 活動成果
+title: 知識を得よう
 ---
 
 ## デジタルデータを扱っているサイトの紹介

@@ -13,7 +13,7 @@ permalink: /
 #classes: wide
 feature_row:
   - title: "Works"
-    excerpt: "私たちの活動をここで見ることができます"
+    excerpt: "データを活用するための情報を提供しています"
     image_path: /assets/images/feature001.jpg
     btn_label: "read more"
     btn_class: "btn--primary"
