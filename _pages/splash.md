@@ -40,6 +40,10 @@ feature_row:
 
 ## NEWS
 
+### 2018.10.26
+リポジトリ[rea-osaka/reti](https://github.com/rea-osaka/reti)をアップデート。
+国土交通省配布の取引価格情報データをRで扱うためのパッケージ
+
 ### 2018.9.25
 リポジトリ[rea-osaka/R_lesson](https://github.com/rea-osaka/R_lesson)を追加。
 jupyter notebookを用いた、Rの基本的なレッスンノート集
