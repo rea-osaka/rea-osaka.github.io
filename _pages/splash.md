@@ -40,6 +40,14 @@ feature_row:
 
 ## NEWS
 
+### 2018.11.08
+リポジトリ[rea-osaka/Osaka-Kogyo-scatter-plot](https://github.com/rea-osaka/Osaka-Kogyo-scatter-plot)を追加。
+取引価格情報を利用し、Ｒスクリプトで大阪府下の工業地域の価格について視覚的に分析をおこなった例
+
+### 2018.11.08
+リポジトリ[rea-osaka/reti](https://github.com/rea-osaka/reti)では、Ｒパッケージ「reti」の開発を順次行っています。
+「reti」の基本的な関数群が完成し、また、github上のWikiページ（使い方等の概要）も作成しました。
+
 ### 2018.10.26
 リポジトリ[rea-osaka/reti](https://github.com/rea-osaka/reti)をアップデート。
 国土交通省配布の取引価格情報データをRで扱うためのパッケージ
