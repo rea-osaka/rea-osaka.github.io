@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Let's get started!!"
 excerpt: "不動産の鑑定評価業務に資するデータやプログラミングを模索する"
 #author_profile: true
@@ -11,20 +11,44 @@ header:
   cta_url: "https://github.com/rea-osaka"
 permalink: /
 #classes: wide
+feature_row_news:
+  - title: "最新情報"
+    excerpt: "2018.12.03<br>不動産取引価格情報活用小委員会の委員が講師になり、「鑑定評価に関連する最高裁判決と取引価格情報の活用・データ分析に関する研修会」を行いました。"
+    image_path: /assets/images/feature001.jpg
+    btn_label: "その他のニュース"
+    btn_class: "btn--primary"
+    url: /news/
+
+feature_row_works:
+  - title: "データ分析でこんなことが出来ます"
+    excerpt: "小委員会メンバーの行っっているデータ分析を紹介しています。"
+    image_path: /assets/images/feature003.jpg
+    btn_label: "読んでみる"
+    btn_class: "btn--primary"
+    url: /works/
+
+feature_row_howto:
+  - title: "パソコンでデータ分析に挑戦してみませんか？"
+    excerpt: "RやRStudioのインストールの仕方や、小委員会がGitHubで発表しているスクリプト等の活用の仕方を紹介します"
+    image_path: /assets/images/feature002.jpg
+    btn_label: "やってみる"
+    btn_class: "btn--primary"
+    url: /howto_top/
+
 feature_row:
-  - title: "Works"
-    excerpt: "データを活用するための情報を提供しています"
+  - title: "その他"
+    excerpt: "色々な情報"
     image_path: /assets/images/feature001.jpg
     btn_label: "read more"
     btn_class: "btn--primary"
-    url: /works/
-  - title: "Coding"
+    url: /others/
+  - title: "GitHub"
     excerpt: "活動にはGitHubを活用しています"
     image_path: /assets/images/feature002.jpg
     btn_label: "visit our github"
     btn_class: "btn--primary"
     url: "https://github.com/rea-osaka"
-  - title: "Folks"
+  - title: "ブログ"
     excerpt: "各メンバーがブログを投稿しています"
     image_path: /assets/images/feature003.jpg
     btn_label: "read more"
@@ -32,49 +56,14 @@ feature_row:
     url: "/blog/"
 ---
 
-データリテラシーを高め、鑑定評価業務に生かして行こう
-{: .text-center}
 
-## FEATURE
+
+{% include feature_row id ="feature_row_news" type = "left"%}
+{% include feature_row id ="feature_row_works" type = "right"%}
+{% include feature_row id ="feature_row_howto" type = "center"%}
+
+## その他いろいろ
 {% include feature_row %}
 
-## NEWS
-
-### 2018.11.08
-リポジトリ[rea-osaka/Osaka-Kogyo-scatter-plot](https://github.com/rea-osaka/Osaka-Kogyo-scatter-plot)を追加。
-取引価格情報を利用し、Ｒスクリプトで大阪府下の工業地域の価格について視覚的に分析をおこなった例
-
-### 2018.11.08
-リポジトリ[rea-osaka/reti](https://github.com/rea-osaka/reti)では、Ｒパッケージ「reti」の開発を順次行っています。
-「reti」の基本的な関数群が完成し、また、github上のWikiページ（使い方等の概要）も作成しました。
-
-### 2018.10.26
-リポジトリ[rea-osaka/reti](https://github.com/rea-osaka/reti)をアップデート。
-国土交通省配布の取引価格情報データをRで扱うためのパッケージ
-
-### 2018.9.25
-リポジトリ[rea-osaka/R_lesson](https://github.com/rea-osaka/R_lesson)を追加。
-jupyter notebookを用いた、Rの基本的なレッスンノート集
-
-### 2018.9.18
-[環境整備のためのHowTo](/works/howto/)のページに「R環境の整備」項目を追加しました。
-
-### 2018.9.18
-当Webページの情報発信主体が大阪府不動産鑑定士協会業務委員会内の取引価格情報活用小委員会になりました。
-
-### 2018.9.10
-リポジトリ[rea-osaka/jutakuchakko.R](https://github.com/rea-osaka/jutakuchakko.R)を追加。住宅着工統計を視覚化するスクリプト
-
-### 2018.9.10
-リポジトリ[rea-osaka/simple-analysis-of-real-estate](https://github.com/rea-osaka/simple-analysis-of-real-estate)を追加。取引価格情報を利用し、取引総額を視覚的に分析するスクリプト
-
-### 2018.9.10
-リポジトリ[rea-osaka/Maps_on_2_census](https://github.com/rea-osaka/Maps_on_2_census)を追加。国勢調査による人口・世帯数の増減を視覚化するスクリプト
-
-### 2018.9.10
-環境整備のためのHowToページを作成し、GitHubアカウントの作成について説明
-
-### 2018.8.25
-準備委員会としてのホームページを公開
-
-
+データリテラシーを高め、鑑定評価業務に生かして行こう
+{: .text-center}

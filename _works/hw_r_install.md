@@ -33,7 +33,7 @@ Windows用のページでは、「install R for the first time」と書かれた
 
 ![cran](/assets/images/htr/cran002.png){: .align-center}
 
-Windwos用のセットアップファイルがダウンロード出来るページに切り替わります。
+Windows用のセットアップファイルがダウンロード出来るページに切り替わります。
 
 ここで、「Download R 3.5.1 for Windows」と書かれたリンクをクリックして、セットアップ用のファイルをダウンロードし、保存します。
 (「3.5.1」と書かれている部分は現在配布中のRバージョンなので、異なっていても問題ありません。)
