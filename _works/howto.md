@@ -6,15 +6,7 @@ toc: true
 toc_label: "目次"
 ---
 
-まずは、あなたのパソコンで、色んな事に挑戦するための環境を整備しましょう。
-
-## GitHub
-
-GitHubを利用して、交流しましょう。
-
-### [アカウント作成](/works/howto/github/account/)
-
-### [初めてのISSUEへの書き込み](/works/howto/github/issue/)
+あなたのパソコンで、色んな事に挑戦するための環境を整備しましょう。
 
 
 ## R環境の整備
