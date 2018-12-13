@@ -32,5 +32,5 @@ H22とH27国勢調査による東大阪市の人口・世帯数の増減地図�
 *[githubリポジトリ「rea-osaka/Maps_on_2_census」より](https://github.com/rea-osaka/Maps_on_2_census)*
 
 
-## 続きは、GitHubで
+## 続きは、[GitHub](https://github.com/rea-osaka)で
 

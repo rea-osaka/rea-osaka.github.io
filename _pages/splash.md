@@ -29,7 +29,7 @@ feature_row_works:
 
 feature_row_howto:
   - title: "パソコンでデータ分析に挑戦してみませんか？"
-    excerpt: "RやRStudioのインストールの仕方や、小委員会がGitHubで発表しているスクリプト等の活用の仕方を紹介します"
+    excerpt: "RやRStudioのインストールの仕方、小委員会がGitHubで発表しているスクリプト等の活用の仕方を紹介します"
     image_path: /assets/images/feature002.jpg
     btn_label: "やってみる"
     btn_class: "btn--primary"
@@ -38,19 +38,19 @@ feature_row_howto:
 feature_row:
   - title: "その他"
     excerpt: "色々な情報"
-    image_path: /assets/images/feature001.jpg
+    image_path: /assets/images/c001.jpg
     btn_label: "read more"
     btn_class: "btn--primary"
     url: /others/
   - title: "GitHub"
     excerpt: "活動にはGitHubを活用しています"
-    image_path: /assets/images/feature002.jpg
+    image_path: /assets/images/c002.jpg
     btn_label: "visit our github"
     btn_class: "btn--primary"
     url: "https://github.com/rea-osaka"
   - title: "ブログ"
     excerpt: "各メンバーがブログを投稿しています"
-    image_path: /assets/images/feature003.jpg
+    image_path: /assets/images/c003.jpg
     btn_label: "read more"
     btn_class: "btn--primary"
     url: "/blog/"
