@@ -13,7 +13,7 @@ permalink: /
 #classes: wide
 feature_row_news:
   - title: "最新情報"
-    excerpt: "2018.12.03<br>不動産取引価格情報活用小委員会の委員が講師になり、「鑑定評価に関連する最高裁判決と取引価格情報の活用・データ分析に関する研修会」を行いました。"
+    excerpt: "2019.3.7<br>不動産取引価格情報活用小委員会の委員が講師になり、データ分析演習「不動産取引価格情報をRStudioで見る」を行いました。"
     image_path: /assets/images/feature001.jpg
     btn_label: "その他のニュース"
     btn_class: "btn--primary"
