@@ -4,6 +4,9 @@ permalink: /news/
 title: 今までのニュース一覧
 ---
 
+### 2019.6.15
+[初心者向けのRインストールガイド](https://syunsuke.github.io/r_install_guide_for_beginners/)を追加
+
 ### 2019.3.7
 不動産取引価格情報活用小委員会の委員が講師になり、データ分析演習「不動産取引価格情報をRStudioで見る」を行いました。
 
