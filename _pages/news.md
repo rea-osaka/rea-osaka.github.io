@@ -4,6 +4,9 @@ permalink: /news/
 title: 今までのニュース一覧
 ---
 
+### 2019.7.13
+[Rビギナーズガイド](https://syunsuke.github.io/r_beginners_guide/)を追加
+
 ### 2019.6.15
 [初心者向けのRインストールガイド](https://syunsuke.github.io/r_install_guide_for_beginners/)を追加
 
