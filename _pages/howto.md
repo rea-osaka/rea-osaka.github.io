@@ -19,6 +19,15 @@ RやRStudioを初めて触る時のガイドです
 
 
 
+## repocoを使うための準備について
+
+rmarkdownを処理してpdfファイルを出力するために
+必要となるTeXシステム等のセットアップのガイドです。
+この設定を行わないと、retiデータのレポートツールであるrepocoパッケージが使えません。
+
+[repocoを使うための準備について](https://syunsuke.github.io/r_prepare_for_repoco/)
+
+
 
 
 

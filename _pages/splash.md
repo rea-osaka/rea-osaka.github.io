@@ -13,7 +13,7 @@ permalink: /
 #classes: wide
 feature_row_news:
   - title: "最新情報"
-    excerpt: "2019.7.13<br>Rビギナーズガイド"
+    excerpt: "2021.4.20<br>Rパッケージretiexの追加等"
     image_path: /assets/images/feature001.jpg
     btn_label: "その他のニュース"
     btn_class: "btn--primary"

@@ -4,6 +4,18 @@ permalink: /news/
 title: 今までのニュース一覧
 ---
 
+### 2021.4.20
+[repocoを使うための準備について](https://syunsuke.github.io/r_prepare_for_repoco/)を追加
+
+
+### 2021.4.20
+Rパッケージ[repoco](https://github.com/rea-osaka/repoco)を追加
+
+
+### 2021.4.20
+Rパッケージ[retiex](https://github.com/rea-osaka/retiex)を追加
+
+
 ### 2019.7.13
 [Rビギナーズガイド](https://syunsuke.github.io/r_beginners_guide/)を追加
 
